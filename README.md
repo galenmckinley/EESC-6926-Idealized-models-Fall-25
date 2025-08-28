@@ -8,3 +8,4 @@ Links:
   
 - Use the LEAP-Pangeo Jupyterhub. Choose the LEAP Education image under CPU only options.
   
+<img width="714" height="464" alt="Screenshot 2025-08-28 at 3 50 47 PM" src="https://github.com/user-attachments/assets/4ed17b3c-73e4-4af6-b36f-98b5f41461b7" />
