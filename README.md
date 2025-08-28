@@ -4,7 +4,7 @@
 ### Prior instructor and code developer [Robert Pincus](https://crew.ldeo.columbia.edu)
 
 Links: 
-- [Course website]([https://courseworks2.columbia.edu/courses/225187]) (Courseworks)
+- [Course website](https://courseworks2.columbia.edu/courses/225187) (Courseworks)
   
 - Use the LEAP-Pangeo Jupyterhub. Choose the LEAP Education image under CPU only options.
   
